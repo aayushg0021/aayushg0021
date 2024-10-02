@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @aayushg0021
+# 👋 Hi, I’m Aayush
 
 I'm a Frontend Developer focused on building modern, responsive web applications with a strong emphasis on user experience and performance.
 
