@@ -2,7 +2,6 @@
 
 I'm a Frontend Developer focused on building modern, responsive web applications with a strong emphasis on user experience and performance.
 
-![Frontend Development](https://your-gif-url-here.gif)
 
 ## 👀 Interests
 - Creating clean, intuitive, and high-performance web applications.
